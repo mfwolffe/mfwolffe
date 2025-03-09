@@ -16,7 +16,7 @@
 
 ### I write code for myself, my family, and for causes I feel worthy, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
 
-### [Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
+## [Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
 
 #### I write code that _saves me time_ in my quotidian  
 _e.g.,_ and wholeheartedly **not**, _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
