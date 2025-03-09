@@ -9,6 +9,9 @@ it's _just that_:
 **silly**.  
 
 ### I write code for myself, my family, and for causes I feel worthy, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
+
+[Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^2]
+
 #### I write code that _saves me time_ in my quotidian  
 _e.g.,_ and wholeheartedly **not** _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
 Unless you've had to manually adjust quadrants hundreds of times in the last 3 years after pulling an arctangent, don't @ me.  
@@ -16,7 +19,6 @@ If you have, I think this will make your life easier too:  https://protract.ing
 
 I believe code is _Craft_; the desktop workstation an atelier; not a newfnagled teletype[^1]
 
-[Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^2]
 
 I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...  
 ...wholeheartedly.  
