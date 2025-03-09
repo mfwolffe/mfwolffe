@@ -80,9 +80,11 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > he likes shells and keybinds and symlinks.  
 > and walking his dog Moby at sunrise,  
 > but he's diametrically opposed to waking up before six-forty-five.  
+>
 > he does like daylight savings,  
 > but only periodically[^1] ;).  
 > he likes a minimum of six car lengths on I-81,  
+>
 > though he dislikes the fact he feels on the 'quotoadian'[^1] ;)  
 > he doesn't get thrown a bone of one[^1].  
 >
@@ -114,4 +116,4 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 [^1]: _Sapient sat._
 [^2]: _It matters._
 
-nota bene; *if you're a person who appreciates subtleties, check the commits on this readme.*
+nota bene; *if you're a person who is for some reason reading this, and who appreciates ...subtleties? Maybe is a word... check the commits on this readme?*
