@@ -31,20 +31,24 @@ If you have, I would hope this could make your life easier too:  https://protrac
 I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...  
 ...wholeheartedly.  
 
-#### I have strong opinions about large language models, indentation, and aligning `=` and `::` and `/etc/`[^1], not that it matters[^2]
+#### I have strong opinions about large language models, indentation, and aligning `=` and `::`, `/etc/`[^1]; not that it matters[^2]
 
 ### **Current Goals (Educational or Otherwise Educative):**
 * Learn Fortran
   * So I can contribute to CMAQ
   * and be less unserious
     * I'm logging this process in my FortranGoingOnForty github organization
-* Use Fortran in a WebAssembly toolchain so I *_own_* my DAW that I have been writing for [MusicCPR](musiccpr.org)
+      * I recognize that ^ gives way more gravity to my lil projects than they or I deserve. Remember though, *wholly unserious*.
+* Use Fortran in a WebAssembly toolchain so I *__own__* my DAW that I have been writing for [MusicCPR](musiccpr.org)
   * convolution
   * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard))
+  * See what you can incorporate into DigitalDipole if you figure out the WA.
 * Refactor my repos into related GH orgs
 * Continue to not push my solutions to school PAs to public GH repos and call them 'projects' as if personally, _unlike some._ 
 * Get back into obfuscated C[^1] ^^ ;)
 * Alluded to above, but for my thesis I have been working towards building a digital audio workstation in the browser (scaffolded within MusicCPR); I want every last line in my DAW to either by my own or FOSS.
+* Never finish anything  
+* Get better at bash scripting (that's a daemon)
 
 ### I like French film:
 #### *he likes french film[^1]
@@ -79,7 +83,8 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > he does like daylight savings,  
 > but only periodically[^1] ;).  
 > he likes a minimum of six car lengths on I-81,  
-> though he dislikes the fact he feels on the 'quoatoadian'[^1] ;) he doesn't get thrown a bone of one[^1].  
+> though he dislikes the fact he feels on the 'quotoadian'[^1] ;)  
+> he doesn't get thrown a bone of one[^1].  
 >
 > he dislikes the distillation of nuance  
 > and the erasure of historical asides.  
@@ -89,20 +94,24 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > he's liked writing scripts since age 11,  
 > and 'disliked’ writing `code` since age 12  
 >
-> et, apres (yeah yeah I know you just hold down a key[^1], but I use arch btw ;))
+> et, apres (yeah yeah I know *you* (who?) just hold down a key[^1], but I use arch btw ;))
 > [^1]  
 > -mfw
 
 ## I take myself wholly unseriously; I'm just here to tinker[^1].
-#### if you read this and come to the conculsion I do the opposite, then what is wrong with you lol
+#### if you read this and come to the conclusion
 
 > my name is matthew forrester wolffe;  
 > I'm overly quixotic  
 > And oftentimes naive  
 > But I enjoy what I'm doing  
 > and I'll get back to you on that  
+>
 > But then again[^2],  
+> But mais au fond.  
 > I suppose I always have.  
 
 [^1]: _Sapient sat._
 [^2]: _It matters._
+
+nota bene; *if you're a person who appreciates subtleties, check the commits on this readme.*
