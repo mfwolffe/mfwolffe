@@ -22,7 +22,7 @@
 _e.g.,_ and wholeheartedly **not**, _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
 Unless you've had to manually adjust quadrants hundreds of times in the last 3 years after pulling an arctangent, don't @ me.  
 If you have, I would hope this could make your life easier too:  https://protract.ing   
-^ don't get it twisted; I made that site as a first 'learners site' with somewhat involved `scripting things` going on; and it is literally a tool to save *me and only me time*. If it helps someone else somewhere sometime that's great but I can't be bothered to check in. Basically I mean to say the site is really ugly and is not responsive or reactive or stateful or any buzzword-salad-nonsense, and, most importantly, will potentially never see a push to main again.  
+^ I made that site as a first 'learners site' with somewhat involved `scripting things` going on; and it is literally a tool to save *me and only me time*. If it helps someone else somewhere sometime that's great but I can't be bothered to check in. Basically I mean to say the site is really ugly and is not responsive or reactive or stateful or any buzzword-salad-nonsense, and, most importantly, will potentially never see a push to main again.  
 
 ### I agree that code is _Craft_; the desktop workstation an atelier; not a newfnagled teletype[^1]
 ##### and I do not claim credit for that conception, right? *It was, once upon a time, a movement*. I learned of it by starting to explore the works of sociologist Richard Sennet.
@@ -42,7 +42,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 * Use Fortran in a WebAssembly toolchain so I *__own__* my DAW that I have been writing for [MusicCPR](musiccpr.org)
   * convolution
   * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard))
-  * See what you can incorporate into DigitalDipole if you figure out the WA.
+  * See what I can incorporate into DigitalDipole if I figure out the WA.
 * Refactor my repos into related GH orgs
 * Continue to not push my solutions to school PAs to public GH repos and call them 'projects' as if personally, _unlike some._ 
 * Get back into obfuscated C[^1] ^^ ;)
