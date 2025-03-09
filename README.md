@@ -47,26 +47,51 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 * Alluded to above, but for my thesis I have been working towards building a digital audio workstation in the browser (scaffolded within MusicCPR); I want every last line in my DAW to either by my own or FOSS.
 
 ### I like French film:
-> matthieu likes to write programs that save him time.
+#### *he likes french film[^1]
+> matthieu  
+> likes to write programs that save him time.  
+>
 > he plays instruments;  
-> they’re usually made of brass,  
+> and they’re usually made of brass,  
 > and they’re usually large,
-> but not always.  
-> 
-> sometimes, they could even be called vestigial.
+> but not usually always.  
+>
+> sometimes, maybe even vestigial  
+> like a sackbut or a serpent or an (awful)cleide[^1] ;)
 >  
 > he likes Linux and Unix history and all things FOSS.  
 > he doesn't like Microsoft Office, but he'll use it when cornered.  
-> he doesn't like indentation or competing standards, but does like POSIX for the most part <3.  
+>
+> he understands that the jazzers who understand  
+> i.e., and whole-hearted-ly not e.g.,  
+> who aren't pedantic pissants  
+> are talking about the same things as the people who implore for open source... 
+>
+> ...but he doesn't claim to be clever or special or smart for that; it's called common-sense and self-awareness.  
+>
+> ... 
+>
+> he doesn't like indentation or competing standards,
+> but he does like POSIX for the most part <3.    
 > he likes shells and keybinds and symlinks.  
-> Walking his dog Moby at sunrise, but he's diametrically opposed to waking up earlier than 6:30.  
-> he does like daylight savings, but only periodically[^1].  
-> he likes a minimum of six car lengths on I-81, though he rarely even gets thrown a bone of one[^1].  
-> he dislikes the distillation of nuance and the erasure of historical asides.  
+> and walking his dog Moby at sunrise,  
+> but he's diametrically opposed to waking up before six-forty-five.  
+> he does like daylight savings,  
+> but only periodically[^1] ;).  
+> he likes a minimum of six car lengths on I-81,  
+> though he dislikes the fact he feels on the 'quoatoadian'[^1] ;) he doesn't get thrown a bone of one[^1].  
+>
+> he dislikes the distillation of nuance  
+> and the erasure of historical asides.  
+>
+> .
+>
 > he's liked writing scripts since age 11,  
-> and 'disliked’ writing `code` since age 12.  
+> and 'disliked’ writing `code` since age 12  
+>
 > et, apres (yeah yeah I know you just hold down a key[^1], but I use arch btw ;))
-> [^1]
+> [^1]  
+> -mfw
 
 ## I take myself wholly unseriously; I'm just here to tinker[^1].
 #### if you read this and come to the conculsion I do the opposite, then what is wrong with you lol
