@@ -10,7 +10,7 @@ it's _just that_:
 
 ### I write code for myself, my family, and for causes I feel worthy, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
 #### I write code that _saves me time_ in my quotidian  
-_e.g.,_ and wholeheartedly **not** _i.e.[^2]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
+_e.g.,_ and wholeheartedly **not** _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
 Unless you've had to manually adjust quadrants hundreds of times in the last 3 years after pulling an arctangent, don't @ me.  
 If you have, I think this will make your life easier too:  https://protract.ing   
 
@@ -33,7 +33,9 @@ I have strong opinions about large language models, indentation, and aligning `=
   * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard))
 * Refactor my repos into related GH orgs
 * Continue to not push my solutions to school PAs to public GH repos and call them 'projects' as if personally, _unlike some._ 
-* Get back into obfuscated C[^2] ^^ ;)
+* Get back into obfuscated C[^1] ^^ ;)
+* Alluded to above, but for my thesis I have been working towards building a digital audio workstation in the browser (scaffolded within MusicCPR); I want every last line in my DAW to either by my own or FOSS.
+* 
 
 ### I like French film:
 > matthieu likes to write programs that save him time.
@@ -66,5 +68,5 @@ I have strong opinions about large language models, indentation, and aligning `=
 > But then again[^2],  
 > I suppose I always have.  
 
-[^1]: _Sapient sat._
-[^2]: _It matters._
+[^1]: _It matters._
+[^2]: _Sapient sat._
