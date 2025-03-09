@@ -16,7 +16,7 @@
 
 ### I write code for myself, my family, and for causes I feel worthy, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
 
-[Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
+### [Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
 
 #### I write code that _saves me time_ in my quotidian  
 _e.g.,_ and wholeheartedly **not** _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
@@ -66,7 +66,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > he dislikes the distillation of nuance and the erasure of historical asides.  
 > he's liked writing scripts since age 11,  
 > and 'disliked’ writing `code` since age 12.  
-> et, apres (i use arch linux and on this server I don't have any kind of like )
+> et, apres (yeah yeah I know you just hold down a key[^1], but I use arch btw ;))
 
 ### I take myself wholly unseriously; I'm just here to tinker[^1].
 #### if you read this and come to the conculsion I do the opposite, then what is wrong with you lol
