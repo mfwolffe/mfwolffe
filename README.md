@@ -2,30 +2,38 @@
 
 ### My name is matthew forrester wolffe.
 
-I've been writing silly scripts  
-& maybe-code since 2009,  
-**but,** don't get it twisted,  
-it's _just that_:  
-**silly**.  
+> I've been writing silly scripts and  
+> maybe-code.   
+> 
+> just since 2009,  
+> **but,**  
+> please friends  
+> don't get it twisted,  
+> it's _just that_:  
+> **silly**.  
+-mfw
+
 
 ### I write code for myself, my family, and for causes I feel worthy, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
 
-[Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^2]
+[Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
 
 #### I write code that _saves me time_ in my quotidian  
 _e.g.,_ and wholeheartedly **not** _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
 Unless you've had to manually adjust quadrants hundreds of times in the last 3 years after pulling an arctangent, don't @ me.  
-If you have, I think this will make your life easier too:  https://protract.ing   
+If you have, I would hope this could make your life easier too:  https://protract.ing   
+^ don't get it twisted; I made that site as a first 'learners site' with somewhat involved `scripting things` going on; and it is literally a tool to save *me and only me time*. If it helps someone else somewhere sometime that's great but I can't be bothered to check in.   
 
-I believe code is _Craft_; the desktop workstation an atelier; not a newfnagled teletype[^1]
+#### I believe code is _Craft_; the desktop workstation an atelier; not a newfnagled teletype[^1]
+##### and I do not claim credit for that conception, right? *It was, once upon a time, a movement*. I learned of it by starting to explore the works of sociologist Richard Sennet.
 
 
 I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...  
 ...wholeheartedly.  
 
-I have strong opinions about large language models, indentation, and aligning `=` and `::` and `/etc/`, not that it matters[^2]
+#### I have strong opinions about large language models, indentation, and aligning `=` and `::` and `/etc/`[^1], not that it matters[^2]
 
-### **Current Goals (Educative or Otherwise):**
+### **Current Goals (Educational or Otherwise Educative):**
 * Learn Fortran
   * So I can contribute to CMAQ
   * and be less unserious
@@ -58,6 +66,7 @@ I have strong opinions about large language models, indentation, and aligning `=
 > he dislikes the distillation of nuance and the erasure of historical asides.  
 > he's liked writing scripts since age 11,  
 > and 'disliked’ writing `code` since age 12.  
+> et, apres (i use arch linux and on this server I don't have any kind of like )
 
 ### I take myself wholly unseriously; I'm just here to tinker[^1].
 #### if you read this and come to the conculsion I do the opposite, then what is wrong with you lol
@@ -70,5 +79,5 @@ I have strong opinions about large language models, indentation, and aligning `=
 > But then again[^2],  
 > I suppose I always have.  
 
-[^1]: _It matters._
-[^2]: _Sapient sat._
+[^1]: _Sapient sat._
+[^2]: _It matters._
