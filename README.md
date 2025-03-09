@@ -14,7 +14,7 @@
 -mfw
 
 
-### I write code for myself, my family, and for causes I feel worthy, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
+### I write code for myself, my family, and occasionally for causes I feel worthy, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
 
 ## [Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
 
