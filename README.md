@@ -19,12 +19,12 @@
 ### [Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
 
 #### I write code that _saves me time_ in my quotidian  
-_e.g.,_ and wholeheartedly **not** _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
+_e.g.,_ and wholeheartedly **not**, _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
 Unless you've had to manually adjust quadrants hundreds of times in the last 3 years after pulling an arctangent, don't @ me.  
 If you have, I would hope this could make your life easier too:  https://protract.ing   
-^ don't get it twisted; I made that site as a first 'learners site' with somewhat involved `scripting things` going on; and it is literally a tool to save *me and only me time*. If it helps someone else somewhere sometime that's great but I can't be bothered to check in.   
+^ don't get it twisted; I made that site as a first 'learners site' with somewhat involved `scripting things` going on; and it is literally a tool to save *me and only me time*. If it helps someone else somewhere sometime that's great but I can't be bothered to check in. Basically I mean to say the site is really ugly and is not responsive or reactive or stateful or any buzzword-salad-nonsense.  
 
-#### I believe code is _Craft_; the desktop workstation an atelier; not a newfnagled teletype[^1]
+### I agree that code is _Craft_; the desktop workstation an atelier; not a newfnagled teletype[^1]
 ##### and I do not claim credit for that conception, right? *It was, once upon a time, a movement*. I learned of it by starting to explore the works of sociologist Richard Sennet.
 
 
@@ -45,7 +45,6 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 * Continue to not push my solutions to school PAs to public GH repos and call them 'projects' as if personally, _unlike some._ 
 * Get back into obfuscated C[^1] ^^ ;)
 * Alluded to above, but for my thesis I have been working towards building a digital audio workstation in the browser (scaffolded within MusicCPR); I want every last line in my DAW to either by my own or FOSS.
-* 
 
 ### I like French film:
 > matthieu likes to write programs that save him time.
@@ -67,8 +66,9 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > he's liked writing scripts since age 11,  
 > and 'disliked’ writing `code` since age 12.  
 > et, apres (yeah yeah I know you just hold down a key[^1], but I use arch btw ;))
+> [^1]
 
-### I take myself wholly unseriously; I'm just here to tinker[^1].
+## I take myself wholly unseriously; I'm just here to tinker[^1].
 #### if you read this and come to the conculsion I do the opposite, then what is wrong with you lol
 
 > my name is matthew forrester wolffe;  
