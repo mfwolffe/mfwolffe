@@ -23,17 +23,19 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 
 I have strong opinions about large language models, indentation, and aligning `=` and `::` and `/etc/`, not that it matters[^2]
 
-**Current Goals (Educative or Otherwise):**
+### **Current Goals (Educative or Otherwise):**
 * Learn Fortran
   * So I can contribute to CMAQ
   * and be less unserious
     * I'm logging this process in my FortranGoingOnForty github organization
 * Use Fortran in a WebAssembly toolchain so I *_own_* my DAW that I have been writing for [MusicCPR](musiccpr.org)
   * convolution
-  * threading with Fortran OpenMP directives (if they're different - I'm green in this regard)
-* 
+  * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard))
+* Refactor my repos into related GH orgs
+* Continue to not push my solutions to school PAs to public GH repos and call them 'projects' as if personally, _unlike some._ 
+* Get back into obfuscated C[^2] ^^ ;)
 
-I like French film:
+### I like French film:
 > matthieu likes to write programs that save him time.
 > he plays instruments;  
 > they’re usually made of brass,  
@@ -61,7 +63,7 @@ I like French film:
 > And oftentimes naive  
 > But I enjoy what I'm doing  
 > and I'll get back to you on that  
-> But really,  
+> But then again[^2],  
 > I suppose I always have.  
 
 [^1]: _Sapient sat._
