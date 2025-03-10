@@ -39,7 +39,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
   * So I can contribute to CMAQ
   * and be less unserious
     * I'm logging this process in my FortranGoingOnForty github organization
-      * I recognize that ^ gives way more gravity to my lil projects than they or I deserve. Remember though, *wholly unserious*.
+      * I recognize that ^ gives way more gravity[^3] to my lil projects than they or I deserve. Remember though, *wholly unserious*.
 * Use Fortran in a WebAssembly toolchain so I *__own__* my DAW that I have been writing for thesis
   * convolution
   * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard))
@@ -118,5 +118,5 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 
 [^1]: _Sapient sat._
 [^2]: _It matters._
-
+[^3]: _Bit dramatic with the word choice; and it breaks the flow too :: 'credence' and a myriad other words fit better. But I'm trying to make gravity happen (more than it happens now at least) to evince a situation with **(see)** : weight._
 nota bene; *if you're a person who is for some reason reading this, and who appreciates ...subtleties? Maybe is a word... check the commits on this readme?*
