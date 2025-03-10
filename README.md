@@ -50,7 +50,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
  * y'all. Idk, I just don't really have words. Think about all the scaffolding for you to have the opportunity to write that project?
    * it's just sad, really. 
 * Get back into obfuscated C[^1] ^^ ;)
-* Alluded to above, but for my thesis I have been working towards building a digital audio workstation in the browser (scaffolded within MusicCPR); I want every last line in my DAW to either by my own or FOSS.
+* Alluded to above, but for my thesis I have been working towards building a digital audio workstation in the browser (scaffolded within a research project at JMU); I want every last line in my DAW to either by my own or FOSS.
 * Never finish anything  
 * Get better at bash scripting (that's a daemon)
 
