@@ -119,5 +119,6 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 
 [^1]: _Sapient sat._
 [^2]: _It matters._
-[^3]: _Bit dramatic with the word choice; and it breaks the flow too :: 'credence' and a myriad other words fit better. But I'm trying to make gravity happen (more than it happens now at least) to evince a situation with **(see)** : weight._
+[^3]: _Bit dramatic with the word choice; and it breaks the flow too :: 'credence' and a myriad other words fit better. But I'm trying to make gravity happen (more than it happens now at least) to evince a situation with **(see)** : weight[^4]._
 nota bene; *if you're a person who is for some reason reading this, and who appreciates ...subtleties? Maybe is a word... check the commits on this readme?*
+[^4]: (noun) : that force which reminds one that gravity is still in charge.
