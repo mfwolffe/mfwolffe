@@ -1,6 +1,7 @@
 # 'ello, 
 
 ### My name is matthew forrester wolffe.
+**(noun)** : _wholly unserious_  
 
 > I've been writing silly scripts and  
 > maybe-code.   
@@ -14,7 +15,7 @@
 -mfw
 
 
-### I write code for myself, my family, and occasionally for causes I feel worthwhile, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
+### I write code for myself, my family, and very occasionally for causes I feel worthwhile, like inclusivity in music education, _to name one and seulement one._ I know I'm already _wasting your time_ ;)  
 
 ## [Coding is Political.](https://ehmatthes.github.io/pcc_2e/)[^1]
 
