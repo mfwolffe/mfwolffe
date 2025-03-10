@@ -72,7 +72,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 >
 > he understands that the jazzers who understand  
 > i.e., and whole-hearted-ly not e.g.,  
-> who aren't pedantic pissants  
+> who aren't pedantic pissants ;)  
 > are talking about the same things as the people who implore for open source... 
 >
 > ...but he doesn't claim to be clever or special or smart for that; it's called common-sense and self-awareness.  
