@@ -40,7 +40,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
   * So I can contribute to CMAQ
   * and be less unserious
     * I'm logging this process in my FortranGoingOnForty github organization
-      * I recognize that ^ gives way more gravity[^3] to my lil projects than they or I deserve. Remember though, *wholly unserious*.
+      * I recognize that ^ gives way more gravity[^3] to my lil projects than they or I deserve. Remember though, *indirection everywhere*, even in your source code, but sometimes (a lot of the (most of the ) (of times)) that's a good thing! Most of the time!  
 * Use Fortran in a WebAssembly toolchain so I *__own__* my DAW that I have been writing for thesis
   * convolution
   * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard...well I guess most regards; not tryna misrepresent))
