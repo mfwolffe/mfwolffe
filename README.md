@@ -23,7 +23,7 @@
 _e.g.,_ and wholeheartedly **not**, _i.e.[^1]_, as a mathematics tutor, manual trigonometry to check student work is annoying.  
 Unless you've had to manually adjust quadrants hundreds of times in the last 3 years after pulling an arctangent, don't @ me.  
 If you have, I would hope this could make your life easier too:  https://protract.ing   
-^ I made that site as a first 'learners site' with somewhat involved `scripting things` going on; and it is literally a tool to save *me and only me time*. If it helps somewhere someone else somewhere, that's great but I can't be bothered to check in. Basically I mean to say the site is really ugly and is not responsive or reactive or stateful or any buzzword-salad-nonsense, and, most importantly, will potentially never see a push to *trunk again.  
+^ I made that site as a first 'learners site' with somewhat involved `scripting things` (y'all, let's not extrapolate context and pretend it's rather interp; involved, for me, at the time) going on; and it is literally a tool to save *me and only me time*. If it helps somewhere someone else somewhere, that's great but I can't be bothered to check in. Basically I mean to say the site is really ugly and is not responsive or reactive or stateful or any buzzword-salad-nonsense, and, most importantly, will potentially never see a push to *trunk again.  
 So by means of convolution, sometimes, going back to basics, like barebones html & css is perfectly fine; I say applaud it, but don't plug your ears lol ;)
 
 ### I agree that code is _Craft_; the desktop workstation an atelier; not a newfnagled teletype[^1]
