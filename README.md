@@ -33,7 +33,7 @@ So by means of convolution, sometimes, going back to basics, like barebones html
 I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...  
 ...wholeheartedly.  
 
-#### I have strong opinions about large language models, indentation, and aligning `=` and `::`, `/etc/`[^1]; not that it matters[^2]
+### I have strong opinions about large language models, indentation, and aligning `=` and `::`, `/etc/`[^1]; not that it matters[^2]
 
 ### **Current Goals (Educational or Otherwise Educative):**
 * Learn Fortran
