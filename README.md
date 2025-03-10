@@ -42,7 +42,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
       * I recognize that ^ gives way more gravity[^3] to my lil projects than they or I deserve. Remember though, *wholly unserious*.
 * Use Fortran in a WebAssembly toolchain so I *__own__* my DAW that I have been writing for thesis
   * convolution
-  * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard))
+  * threading with Fortran OpenMP directives (if they're different from C standard OpenMP directives - I'm green in this regard (the fortran regard...well I guess most regards; not tryna misrepresent))
   * See what I can incorporate into DigitalDipole if I figure out the WA.
 * Refactor my repos into related GH orgs
 * Continue to not push my solutions to school PAs to public GH repos and call them 'projects' as if personally, _unlike some._
