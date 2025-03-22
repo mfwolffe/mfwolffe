@@ -47,8 +47,8 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
   * See what I can incorporate into DigitalDipole if I figure out the WA.
 * Refactor my repos into related GH orgs
 * Continue to not push my solutions to school PAs to public GH repos and call them 'projects' as if personally, _unlike some._
- * y'all. Idk, I just don't really have words. Think about all the scaffolding for you to have the opportunity to write that project?
-   * it's just sad, really. 
+   * y'all. Idk, I just don't really have words. Think about all the scaffolding for you to have the opportunity to write that project?
+     * it's just sad, really. 
 * Get back into obfuscated C[^1] ^^ ;)
 * Alluded to above, but for my thesis I have been working towards building a digital audio workstation in the browser (scaffolded within a research project at JMU); I want every last line in my DAW to either by my own or FOSS.
 * Never finish anything  
