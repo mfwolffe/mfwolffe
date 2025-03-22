@@ -71,7 +71,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > he doesn't like Microsoft Office, but he'll use it when cornered.  
 >
 > he understands that the jazzers who understand  
-> i.e., and whole-hearted-ly not e.g.,  
+> i.e., and whole-heart-ed-ly not e.g.,  
 > who aren't pedantic pissants ;)  
 > are talking about the same things as the people who implore for open source... 
 >
