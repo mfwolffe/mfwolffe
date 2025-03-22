@@ -3,6 +3,7 @@
 ### My name is matthew forrester wolffe.
 **(noun)** : _wholly unserious_  
 __see also__ : _cimbasso_ 
+__see also[^1]__ : indirection; oder,
 
 > I've been writing silly scripts and  
 > maybe-code.   
