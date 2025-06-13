@@ -58,7 +58,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > who aren't pedantic pissants ;)  
 > are talking about the same things as the people who implore for open source... 
 >
-> ...but he doesn't claim to be clever or special or smart for that; it's called common-sense and self-awareness.  
+> ...but he doesn't claim to be clever or special or smart for that; it's called common-sense.  
 >
 > ... 
 >
@@ -72,7 +72,7 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > but only periodically[^1] ;).  
 > he likes a minimum of six car lengths on I-81,  
 >
-> though he dislikes the fact he feels on the 'quotoadian'[^1] ;)  
+> though he dislikes the fact he feels on the 'quotoadian'[^1]  
 > he doesn't get thrown a bone of one[^1].  
 >
 > he dislikes the distillation of nuance  
@@ -83,7 +83,6 @@ I believe in **FOSS wholeheartedly**, and I mean **wholeheartedly**...
 > he's liked writing scripts since age 11,  
 > and 'disliked’ writing `code` since age 12  
 >
-> et, apres (yeah yeah I know *you* (who?) just hold down a key[^1], but I use arch btw ;))
 
 -mfw
 
